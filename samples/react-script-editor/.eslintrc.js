@@ -14,6 +14,7 @@ module.exports = {
             rules: {
                 // Prevent usage of the JavaScript null value, while allowing code to access existing APIs that may require null. https://www.npmjs.com/package/@rushstack/eslint-plugin
                 '@typescript-eslint/no-explicit-any': 0,
+                '@typescript-eslint/no-unused-vars': 'off',
             }
         }
     ]
