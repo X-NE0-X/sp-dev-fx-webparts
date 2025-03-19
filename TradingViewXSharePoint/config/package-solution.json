@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "stock-heatmap-widget-client-side-solution",
+    "id": "e65a1125-7d51-4cb2-ab51-7969e052e275",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Stock Heatmap Widget description"
+      },
+      "longDescription": {
+        "default": "Stock Heatmap Widget description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "stock-heatmap-widget Feature",
+        "description": "The feature that activates elements of the stock-heatmap-widget solution.",
+        "id": "66c3c365-69ae-432f-895c-1c4f728dae2a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/stock-heatmap-widget.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.7",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "stock-heatmap-widget",
+    "libraryId": "e65a1125-7d51-4cb2-ab51-7969e052e275",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Stock Heatmap Widget",
+    "solutionShortDescription": "Stock Heatmap Widget description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
